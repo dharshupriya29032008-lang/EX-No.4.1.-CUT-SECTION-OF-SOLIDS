@@ -1,5 +1,5 @@
 # EX No.4.1. CUT SECTION OF SOLIDS
-## DATE:
+## DATE:24-11-2026
 
 ## AIM
 To create the solid model from given drawing and section the solid model
@@ -11,38 +11,45 @@ To create the solid model from given drawing and section the solid model
 4. 2.5 Mbps or faster download; 500 Kbps or faster upload 
 
 ## PROCEDURE:
-1.	Open new file and then select sketch icon.
-2.	Select the plane for sketching. 
-3.	Use sketching features (line, circle, arc, rectangle, polygon, etc.,) to draw the given sketch
 
-![image](https://user-images.githubusercontent.com/113594316/198825274-c6a8d3ee-fb19-4641-b915-8d2e000c40a8.png)
+1.Open the software and create a new sketch.
 
-4.	Use sketch modifying features (cut, trim, mirror, move, etc.,) to edit the sketch.
+2.Select the required sketch plane.
 
-![image](https://user-images.githubusercontent.com/113594316/198825282-0d3de4b8-b6d9-446a-ae2a-461955057399.png)
+3.Use sketch tools to draw the required shapes.
 
-5.	Use inspect feature to measure the dimensions of sketch.
+<img width="320" height="506" alt="Screenshot 2026-11-15 124347" src="https://github.com/user-attachments/assets/002f0e7a-1e0d-4f9c-8a29-ce39da113674" />
 
-![image](https://user-images.githubusercontent.com/113594316/198825301-194365b4-69d2-42ad-8545-a68d3ca1f442.png)
+4.Modify the sketch using editing tools.
 
-6.	After finishing the sketch use finish sketch option to finalize the sketch.
+<img width="202" height="357" alt="Screenshot 2026-11-15 124514" src="https://github.com/user-attachments/assets/3ccf2ff2-9bb7-4259-9a40-a134fbb02ce6" />
 
-![image](https://user-images.githubusercontent.com/113594316/198825314-b90f6aba-da26-4f0d-8d61-a03e8ad0d765.png)
+5.Check the sketch dimensions using inspect.
 
-7.Use extrude option to convert 3D model from sketch
+<img width="291" height="492" alt="Screenshot 2026-11-15 124545" src="https://github.com/user-attachments/assets/d4c6a73c-5244-4bf4-aafe-f349f6fa867e" />
 
-![image](https://user-images.githubusercontent.com/113594316/198825328-205fac21-1322-4d67-894b-6fd92e454e26.png)
+6.Click finish sketch to complete the drawing.
 
-8.Use revolve option to convert 2D to 3D.
+<img width="256" height="172" alt="Screenshot 2026-11-15 124609" src="https://github.com/user-attachments/assets/1eedb234-7407-4971-8d2c-c5ee2526112f" />
 
-![image](https://user-images.githubusercontent.com/113594316/198825337-455049de-f053-48b8-9dd0-ebeb189c0dde.png)
+7.Use extrude.
 
-## INPUT:
-![image](https://user-images.githubusercontent.com/113594316/198825351-b514a4e7-06af-4ee0-8197-e8267749f8a8.png)
+<img width="452" height="560" alt="Screenshot 2026-11-15 133419" src="https://github.com/user-attachments/assets/2287c6b3-8270-41ba-a52f-6d6283334b23" />
 
-## OUTPUT:
+8.Use revolve option to convert 2D into 3D.
+
+<img width="617" height="690" alt="Screenshot 2026-11-15 151133" src="https://github.com/user-attachments/assets/534b3915-8d79-429d-81fb-a3aa80bcb286" />
+
+9.Change to drawing mode.
+
+<img width="336" height="412" alt="Screenshot 2026-11-15 124628" src="https://github.com/user-attachments/assets/09197cd9-612d-4016-81d2-1c003a7dde56" />
 
 ## RESULT:
-
 Thus, the cut section for solid model is created.
+
+<img width="883" height="572" alt="Screenshot 2026-11-11 193453" src="https://github.com/user-attachments/assets/fe50be76-ba69-4a4c-a524-cb10c0fda218" />
+
+<img width="993" height="697" alt="Screenshot 2026-11-11 194906" src="https://github.com/user-attachments/assets/d34335c1-f849-4230-bdaa-aa0da2a0afa2" />
+
+
 
